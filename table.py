@@ -15,10 +15,5 @@ print("denme")
 
 print("denme")
 
-print("denme")
 
-print("denme")
-
-print("denme")
-
-print("denme")
+print("ben")
